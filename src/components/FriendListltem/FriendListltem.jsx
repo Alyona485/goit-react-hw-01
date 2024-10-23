@@ -12,3 +12,4 @@ function FriendListItem({avatar, name, isOnline}) {
     </li>
   );
 }
+export default FriendListItem;
